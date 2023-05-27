@@ -1,5 +1,4 @@
 
-```
 # HTML Tutorial
 
 This repository contains a comprehensive HTML tutorial that covers the basics of HTML web development. Whether you're a beginner or have some experience with HTML, this tutorial will provide you with the knowledge and skills to create well-structured web pages.
@@ -62,6 +61,5 @@ This tutorial is licensed under the [MIT License](LICENSE).
 - Thank any contributors or individuals who have provided guidance or feedback.
 
 Enjoy the HTML tutorial, and happy coding!
-```
 
 Feel free to customize and modify this template according to your specific HTML tutorial. Replace the placeholder text with the appropriate information and content for your tutorial.
