@@ -51,9 +51,6 @@ Feel free to experiment with the code examples and make modifications to see the
 
 If you find any errors, typos, or have suggestions for improving this tutorial, please feel free to contribute. You can submit a pull request with your proposed changes, or open an issue to report any problems or ideas.
 
-## License
-
-This tutorial is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
